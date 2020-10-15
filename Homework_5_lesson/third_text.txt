@@ -1,0 +1,10 @@
+Abramov 60000
+Baranov 15000
+Cupriyanov 80000
+Debilov 6000
+Efremov 3000
+Finikov 165000
+Gugishvili 53200
+Huilov 18345
+Idiotov 25
+Julionov 1000000
